@@ -1,0 +1,10 @@
+epoch   0 -  60 learning rate 0.003   batch size 16
+epoch  61 -  79 learning rate 0.0015  batch size 16
+epoch  80 - 100 learning rate 0.0015  batch size 16  # unfortunate restart due to hardware switch
+epoch 101 - 116 learning rate 0.0015  batch size 160
+epoch 117 - 131 learning rate 0.0015  batch size 500
+epoch 132 - 132 learning rate 0.00075 batch size 500 
+
+
+training start 21 august 2017
+training stop  20 oktober 2017
