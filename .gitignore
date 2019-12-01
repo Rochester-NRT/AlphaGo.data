@@ -1,4 +1,5 @@
 *.sgf
+*.DS_Store
 # explicitly ignoring datasets makes git process changes much faster
 expert_play/sgf/Community
 expert_play/sgf/GoGoDWinter2015
